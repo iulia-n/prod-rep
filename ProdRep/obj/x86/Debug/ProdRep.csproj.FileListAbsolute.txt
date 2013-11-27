@@ -1,0 +1,68 @@
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\bin\Debug\ProdRep.exe.config
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\bin\Debug\ProdRep.exe
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\bin\Debug\ProdRep.pdb
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Properties.Resources.resources
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.exe
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.pdb
+c:\users\iulia\documents\visual studio 2010\Projects\ProdRep\ProdRep\bin\Debug\ProdRepDB.sdf
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form2.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.PregatireProductie.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form3.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.NotaReceptie.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form1.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.MaterialNouForm.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.ProdusNouForm.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormDetaliiMaterial.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormDetaliiFurnizori.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormAddFurnizor.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormNIR.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormFindNIR.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormNirReport.resources
+C:\Users\iulia\Documents\Visual Studio 2010\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormEditNir.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\bin\Debug\ProdRep.exe.config
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.exe
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.pdb
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\bin\Debug\ProdRepDB.sdf
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\bin\Debug\ProdRep.exe
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\bin\Debug\ProdRep.pdb
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.csprojResolveAssemblyReference.cache
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form1.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form3.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormAddFurnizor.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormDetaliiFurnizori.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormDetaliiMaterial.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormEditNir.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormFindNIR.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormNIR.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormNirReport.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.MaterialNouForm.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.NotaReceptie.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.PregatireProductie.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form2.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.ProdusNouForm.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Properties.Resources.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.csproj.GenerateResource.Cache
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.Form4.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormFindBC.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormBC.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormNewOrder.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.NumberTextBox.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep\ProdRep\obj\x86\Debug\ProdRep.FormViewBC.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\bin\Debug\ProdRep.exe.config
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.exe
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.pdb
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\bin\Debug\ProdRepDB.sdf
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\bin\Debug\ProdRep.exe
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\bin\Debug\ProdRep.pdb
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.csprojResolveAssemblyReference.cache
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.Properties.Resources.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.csproj.GenerateResource.Cache
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.FormNewIngredient.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.FormIngredientDetails.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.FormSuppliersDetails.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.FormNewProduct.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.FormNewSupplier.resources
+C:\Users\Iulia\Documents\Visual Studio 2012\Projects\ProdRep - Copy (2)\ProdRep\obj\x86\Debug\ProdRep.FormMain.resources
